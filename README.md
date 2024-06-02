@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing...<br>🌱 I’m currently learning C++, Javascript, HTML/CSS.<br>⚡ Fun fact: Im really lazy -_-
+🔭 I’m currently working on nothing...<br>🌱 I’m currently learning C++, Javascript, HTML/CSS and Python.<br>⚡ Fun fact: Im really lazy -_-
 
 
 ## 🌐 Socials:
