@@ -35,13 +35,17 @@
 </a>
 
 ## 📫 Contact & Counter :3
-<table style="width:100%; text-align:left; display:flex;">
+<table style="width:100%; text-align:left; display:flex;" align="center">
   <tr>
     <td style="width:50%; display: flex; flex-direction: column;">
-      <a href="https://github.com/QuangquyNguyenvo"><img src="https://skillicons.dev/icons?i=github&perline=8" alt="GitHub"></a>
-      <a href="https://discord.com/users/408952069622595605"><img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord"></a>  
-      <a href="mailto:tytokg0002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=8" alt="Gmail"></a>
-      <a href="https://linkedin.com/in/quangquynguyenvo"><img src="https://skillicons.dev/icons?i=linkedin&perline=8" alt="Gmail"></a>
+        <div>
+            <a href="https://github.com/QuangquyNguyenvo"><img src="https://skillicons.dev/icons?i=github&perline=8" alt="GitHub"></a>
+            <a href="https://discord.com/users/408952069622595605"><img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord"></a>
+        </div>
+        <div>
+            <a href="mailto:tytokg0002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=8" alt="Gmail"></a>
+          <a href="https://linkedin.com/in/quangquynguyenvo"><img src="https://skillicons.dev/icons?i=linkedin&perline=8" alt="Gmail"></a>
+        </div>
     </td>
     <td style="width:50%; display: flex; align-items: center; justify-content: center;"> 
       <a href="https://discord.com/users/408952069622595605"><img width=460 src="https://count.getloli.com/get/@quangquynguyenvo?theme=gelbooru"></a> 
