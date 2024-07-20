@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/quangquynguyenvo"><img src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_banner.png" style="width=100%; align=center" alt=Profile Image/></a>
+    <a href="https://github.com/quangquynguyenvo"><img src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_banner.png" style="width=60%; align=center" alt=Profile Image/></a>
     <h2 align="center">✨Hi!👋 I'm Quangquy Nguyenvo! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
     </a>
 </div>
@@ -35,17 +35,21 @@
 </a>
 
 ## 📫 Contact & Counter :3
-<table style="width:100%; text-align:left;">
+<table style="width:100%; text-align:left; display:flex;">
   <tr>
-    <td style="width:50%;">
-      <h2 style="margin-top: -20px;">Quangquy Nguyenvo</h2>
+    <td style="width:50%; display: flex; flex-direction: column;">
       <a href="https://github.com/QuangquyNguyenvo"><img src="https://skillicons.dev/icons?i=github&perline=8" alt="GitHub"></a>
-      <a href="https://discord.com/users/408952069622595605"><img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord"></a>  
+      <a href="https://discord.com/users/408952069622595605"><img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord"></a>  
       <a href="mailto:tytokg0002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&perline=8" alt="Gmail"></a>
       <a href="https://linkedin.com/in/quangquynguyenvo"><img src="https://skillicons.dev/icons?i=linkedin&perline=8" alt="Gmail"></a>
     </td>
-    <td style="width:50%;"><a href="https://github.com/quangquynguyenvo"><img src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_emoji_1.png" alt="Profile Image" style="width:130px;"></a></td>
-  <a href="https://discord.com/users/408952069622595605"><img align="right" width=460 src="https://count.getloli.com/get/@quangquynguyenvo?theme=rule34"></a> 
-</tr>
+    <td style="width:50%; display: flex; align-items: center; justify-content: center;"> 
+      <a href="https://discord.com/users/408952069622595605"><img width=460 src="https://count.getloli.com/get/@quangquynguyenvo?theme=gelbooru"></a> 
+    </td>
+    <td>
+       <a href="https://github.com/quangquynguyenvo"><img align="right" src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_emoji_3.png" alt="Profile Image" style="width:130px;"></a>
+    </td>
+  </tr>
 </table>
+
 
