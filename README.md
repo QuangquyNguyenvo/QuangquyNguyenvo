@@ -2,7 +2,7 @@
     <a href="https://github.com/quangquynguyenvo"><img src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_banner.png" style="width=60%; align=center" alt=Profile Image/></a>
     <h2 align="center">✨Hi!👋 I'm Quangquy Nguyenvo! Nice to meet you (ˊ꒳ˋ)! ✨</h2>
     </a>
-</div>
+</div> <br>
 
 ## ☕ About me . . .
 <a href="https://github.com/QuangquyNguyenvo"><img align="left" width="180" src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_emoji_2.png"></a>
@@ -10,7 +10,7 @@
         <h4>🌱  I’m currently learning C++, Javascript, HTML/CSS and Python.</h4>
         <h4>🐧  Fun fact: I'm really really lazy (T^T) !!!</h4>
         <h1>💕 Hitori Gotoh (⁠ㆁ⁠ω⁠ㆁ⁠)💕</h1>
-<br><br>
+<br>
 
 ## 🔬 Programming Languages & Tools
 <a href="https://github.com/quangquynguyenvo">
