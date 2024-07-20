@@ -9,7 +9,7 @@
         <h4>🔭  I’m currently working on nothing...</h4>
         <h4>🌱  I’m currently learning C++, Javascript, HTML/CSS and Python.</h4>
         <h4>🐧  Fun fact: I'm really really lazy (T^T) !!!</h4>
-        <h1>💕 Hitori Gotoh (⁠ㆁ⁠ω⁠ㆁ⁠)💕</h1>
+        <h1>💕Hitori Gotoh (⁠ㆁ⁠ω⁠ㆁ⁠)💕</h1>
 <br>
 
 ## 🔬 Programming Languages & Tools
