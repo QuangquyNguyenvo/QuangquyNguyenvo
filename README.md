@@ -48,7 +48,7 @@
         </div>
     </td>
     <td style="width:50%; display: flex; align-items: center; justify-content: center;"> 
-      <a href="https://discord.com/users/408952069622595605"><img width=460 src="https://count.getloli.com/get/@quangquynguyenvo?theme=gelbooru"></a> 
+      <a href="https://discord.com/users/408952069622595605"><img width=460 src="https://count.getloli.com/get/@quangquynguyenvo?theme=rule34"></a> 
     </td>
     <td>
        <a href="https://github.com/quangquynguyenvo"><img align="right" src="https://github.com/QuangquyNguyenvo/QuangquyNguyenvo/blob/main/.github/workflows/img/bocchi_emoji_3.png" alt="Profile Image" style="width:130px;"></a>
