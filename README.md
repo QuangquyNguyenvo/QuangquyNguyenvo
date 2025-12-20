@@ -16,7 +16,7 @@
 ## 🔬 Programming Languages & Tools
 <p align="center">
   <a target="_blank" href="https://github.com/quangquynguyenvo">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,flask,opencv,arduino,vscode,gcp,gmail,raspberrypi,windows,ubuntu,ps,pr&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,opencv,electron,nodejs,git,vscode,windows,ubuntu,ps,pr&perline=7" />
   </a>
 </p>
 
