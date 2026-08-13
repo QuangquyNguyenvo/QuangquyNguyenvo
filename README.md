@@ -24,8 +24,8 @@
 ## **📊 Github Stats**
 <div align="center">
   <a target="_blank" href="https://github.com/quangquynguyenvo">
-    <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuangquyNguyenvo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-    <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuangquyNguyenvo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=QuangquyNguyenvo&theme=react&hide_border=true&background=%230D1117"/>
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=QuangquyNguyenvo&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
   </a>
 </div>
 
